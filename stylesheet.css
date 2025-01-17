@@ -1,0 +1,45 @@
+body{
+    background-color: #fffaba;
+    font-family: monospace;
+    color: #91972A;
+}
+
+h1{
+    text-align: center;
+}
+
+#p1{
+    margin: 40px;
+    padding: 20px;
+    text-align: justify;
+    background-color:  #91972A;
+    color: #fffaba ;
+    font-style: italic;
+    border-radius: 20px;
+}
+
+tr:hover{
+    color:darkolivegreen;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+ol{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#list{
+    text-align: center;
+    display: block;
+}
+
+#list ul, #list ol{
+    text-align: center;
+    display: inline-block;
+}
